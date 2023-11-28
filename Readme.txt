@@ -1,14 +1,19 @@
 HackerRank problems in java
-1.WelcomeToJava
-2.JavaStdinAndStdout
-3.JavaIfElse
-4.JavaStdinAndStdout2
-5.JavaOutputFormatting
-6.JavaLoop1
-7.JavaLoop2
-8.JavaDataTypes
-9.JavaEndOfFile
-10.JavaStaticInitializerBlock
-11.JavaIntToString
-12.JavaDateAndTime
-13.JavaCurrencyFormatter
+1.Introdution
+ 1.WelcomeToJava
+ 2.JavaStdinAndStdout
+ 3.JavaIfElse
+ 4.JavaStdinAndStdout2
+ 5.JavaOutputFormatting
+ 6.JavaLoop1
+ 7.JavaLoop2
+ 8.JavaDataTypes
+ 9.JavaEndOfFile
+ 10.JavaStaticInitializerBlock
+ 11.JavaIntToString
+ 12.JavaDateAndTime
+ 13.JavaCurrencyFormatter
+2.String
+ 1.JavaStringsIntroduction
+ 2.
+ 3.
