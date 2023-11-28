@@ -6,3 +6,9 @@ HackerRank problems in java
 5.JavaOutputFormatting
 6.JavaLoop1
 7.JavaLoop2
+8.JavaDataTypes
+9.JavaEndOfFile
+10.JavaStaticInitializerBlock
+11.JavaIntToString
+12.JavaDateAndTime
+13.JavaCurrencyFormatter
