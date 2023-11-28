@@ -15,5 +15,5 @@ HackerRank problems in java
  13.JavaCurrencyFormatter
 2.String
  1.JavaStringsIntroduction
- 2.
+ 2.JavaSubString
  3.
