@@ -16,4 +16,7 @@ HackerRank problems in java
 2.String
  1.JavaStringsIntroduction
  2.JavaSubString
- 3.
+ 3.JavaAnagrams
+ 4.JavaStringReverse
+ 5.JavaStringTokens
+ 6.JavaSubStringComparisons
