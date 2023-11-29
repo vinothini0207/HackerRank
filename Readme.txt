@@ -20,3 +20,4 @@ HackerRank problems in java
  4.JavaStringReverse
  5.JavaStringTokens
  6.JavaSubStringComparisons
+ 7.PatternSyntaxChecker
